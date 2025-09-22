@@ -28,17 +28,6 @@
 
 ---
 
-<div align="center">
-
-### 📈 GitHub Stats
-
-![JPMworkProg GitHub stats](https://github-readme-stats.vercel.app/api?username=JPMworkProg&show_icons=true&theme=synthwave)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPMworkProg&layout=compact&theme=synthwave)
-
-</div>
-
----
-
 ## 📌 Projetos em destaque
 
 ### 🔐 [authBase-api](https://github.com/JPMworkPROG/authBase-api)
